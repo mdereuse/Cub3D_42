@@ -1,0 +1,120 @@
+R 800 500
+NO ./eval/texture/wall5.xpm
+SO ./eval/texture/wall6.xpm
+WE ./eval/texture/wall3.xpm
+EA ./eval/texture/wall2.xpm
+S ./eval/texture/flower.xpm
+T ./eval/texture/ignam.xpm
+O ./eval/texture/tree.XPM
+B ./eval/texture/carrot.xpm
+F 0,255,0
+C 0,0,255
+SB ./eval/texture/sky.xpm
+FT ./eval/texture/floor.xpm
+HP ./eval/texture/hp.xpm
+HPD ./eval/texture/hp_dead.xpm
+GO ./eval/texture/game_over.xpm
+V ./eval/texture/win_screen.XPM
+XNO ./eval/texture/wall_dark2.XPM
+XSO ./eval/texture/wall_dark1.XPM
+XWE ./eval/texture/wall_dark4.XPM
+XEA ./eval/texture/wall_dark3.XPM
+XFT ./eval/texture/floor_dark.XPM
+XSB ./eval/texture/sky_dark.XPM
+XS ./eval/texture/flower_dark.XPM
+XT ./eval/texture/pumpkin_yellow.xpm
+XO ./eval/texture/tree_dark.XPM
+XB ./eval/texture/pumpkin.xpm
+D ./eval/texture/door.xpm
+EO ./eval/texture/door_level_o.XPM
+EC ./eval/texture/door_level_c.XPM
+W1 ./eval/texture/knife1.XPM
+W2 ./eval/texture/knife2.XPM
+W3 ./eval/texture/knife3.XPM
+W4 ./eval/texture/knife4.XPM
+W5 ./eval/texture/knife5.XPM
+EN ./eval/texture/goomba1.XPM
+EWA ./eval/texture/goomba11.xpm
+EWU ./eval/texture/goomba2.XPM
+ES ./eval/texture/goomba3.XPM
+EA1 ./eval/texture/goomba9.xpm
+EA2 ./eval/texture/goomba10.xpm
+EWL ./eval/texture/goomba5.XPM
+EWM ./eval/texture/goomba6.XPM
+EWR ./eval/texture/goomba7.XPM
+EB ./eval/texture/goomba4.XPM
+EH1 ./eval/texture/goomba12.XPM
+EH2 ./eval/texture/goomba13.XPM
+ED ./eval/texture/goomba14.XPM
+RWD ./eval/texture/reward.XPM
+RWDI ./eval/texture/reward_icon.XPM
+NMB0 ./eval/texture/0.XPM
+NMB1 ./eval/texture/1.XPM
+NMB2 ./eval/texture/2.XPM
+NMB3 ./eval/texture/3.XPM
+NMB4 ./eval/texture/4.XPM
+NMB5 ./eval/texture/5.XPM
+NMB6 ./eval/texture/6.XPM
+NMB7 ./eval/texture/7.XPM
+NMB8 ./eval/texture/8.XPM
+NMB9 ./eval/texture/9.XPM
+
+
+         111111111
+         1111O1111
+         104000001
+         100002001
+         100000001
+         1030X0001
+         100000001
+         100000001
+         100004001
+111111111111000111111111111
+100000001000000000100000001
+100333001030000020100000001
+10033300D000000000D00030001
+100000001000004000100000001
+111111111000000050111111111
+100000001020000000100000001
+10004000D000003000D00050001
+100000001005000000100000001
+111111111000000200111111111
+100402000500000003000000201
+1000000000200N0000000000001
+102003000000000300000200001
+111111111111111111111111111
+***
+1111111111111111111111111111
+1000000000000000000200000001
+1004000000030000000000000301
+1000000111111111111100400001
+10005001O0000000000100005001
+1000000111111110000100000001
+1000000000200000000104000001
+1003000000000000500100003001
+1000000000004000000100000001
+1111111111111111111100200001
+1000010200000030000000005001
+10E00D0000400000000040000001
+1000010030000500000000000001
+1111111111111111111111111111
+***
+        1111111111111
+        1000000000001
+        1004000030001
+        1000000000001
+111111115000300000201
+100000000000000050001
+100000003000004005001
+100020000000000000001
+100000000002000000001
+11111110000000004000111111111
+      100000000000000001O1001
+      10000030000000000020001
+      10000000011111100000001
+      1020000001    10000X301
+      1000000001    104000001
+      10000000011111100000501
+      100000000000000000N0001
+      15000000000000050000001
+      11111111111111111111111
